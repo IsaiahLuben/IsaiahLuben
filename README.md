@@ -1,5 +1,11 @@
 ### Hi there 👋
+##Github account assignment
 
+"GitHub was built by programmers for programmers"
+
+"Git is a version control system (VCS)."
+
+"GitHub is owned by Mircrosoft"
 <!--
 **IsaiahLuben/IsaiahLuben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
